@@ -1,4 +1,4 @@
-[![verified-by-homebridge](https://badgen.net/badge/homebridge/verified/purple)](https://github.com/homebridge/homebridge/wiki/Verified-Plugins)
+Forked from https://github.com/torifat/xiaomi-mi-air-purifier to be full compatible with Xiaomi Mi Air Purifier 3H
 
 Control and monitor your **Xiaomi Mi Air Purifier** purifier with HomeKit.
 
@@ -30,12 +30,12 @@ Control and monitor your **Xiaomi Mi Air Purifier** purifier with HomeKit.
 Install using `npm`:
 
 ```bash
-npm install -g homebridge-xiaomi-mi-air-purifier
+npm install -g homebridge-xiaomi-mi-air-purifier-3h
 ```
 
-Or, search for `homebridge-xiaomi-mi-air-purifier ` in Plugins. 
+Or, search for `homebridge-xiaomi-mi-air-purifier-3h ` in Plugins. 
 
-Note that it might be neccessary to enter the search string inside double quotes i.e. `"homebridge-xiaomi-mi-air-purifier"` in some Homebridge UI variants (such as [Hoobs](https://hoobs.com/)) in order to find it among the plethora of similarly named plugins.
+Note that it might be neccessary to enter the search string inside double quotes i.e. `"homebridge-xiaomi-mi-air-purifier-3h"` in some Homebridge UI variants (such as [Hoobs](https://hoobs.com/)) in order to find it among the plethora of similarly named plugins.
 
 ## Configuration
 
